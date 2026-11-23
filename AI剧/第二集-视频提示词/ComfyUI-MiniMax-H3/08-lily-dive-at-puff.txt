@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 2> and <Picture 3>. His face must match <Picture 2> exactly: same face shape, strong straight brows, light blue eyes, straight nose, full lips, freckles across nose and cheeks, tousled short golden-blond hair, fair skin. In this video he wears the gray crew-neck T-shirt from <Picture 3>, light gray sweatpants and white sneakers, exactly as in <Picture 1>.
+<Subject 2> is Puff, the golden retriever in <Picture 4>, long golden coat, dark navy collar with round silver tag.
+<Subject 3> is the creature on the wall in <Picture 1>: a thin humanoid shape covered in long black hair, long thin black-haired arms with sharp black claws, two glowing yellow eyes visible through the hair.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot with a locked-off camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. <Subject 3> dives off the courtyard wall at <Subject 2>, the dog tumbles onto his back, and <Subject 1> lunges forward to help.
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2>; whenever any part of his face or profile becomes visible it is the same person as <Picture 2>, never a different face. Hair, T-shirt, sweatpants and sneakers unchanged.
+<Subject 2>: fully_preserved - coat, size and collar unchanged.
+<Picture 1>: fully_preserved - the video starts exactly from its framing, lighting, courtyard layout and poses.
+Background: fully_preserved - brick walls, arched niche, urn, trellises, lamp posts, iron table and chairs, grill, plants, buildings, moon and night sky stay identical and stable; the red frisbee stays on the paving in the same place.
+
+detailed_description:
+Locked-off camera, same framing, lens and perspective throughout. No camera movement, zoom, shake, cuts or crossfades.
+[0.0s-1.3s] The standoff, matching <Picture 1>. <Subject 2> stands barking sharply up at <Subject 3>, hackles raised, tail stiffly up. <Subject 1> stands still on screen right with his back to the camera, staring up at the wall, arms at his sides. <Subject 3> crouches completely still on the wall top, her long black hair hanging down in front of the wall lantern.
+[1.3s-2.2s] Without any wind-up, <Subject 3> launches off the wall top in one explosive movement and dives diagonally down toward <Subject 2> at screen lower left, extremely fast, a single dark streak cutting through the air. Her long black hair streams back behind her; strong motion blur stretches her body into a dark trail pointing back to the spot on the wall where she crouched. Her front stays readable: two long thin black-haired arms reaching forward with sharp black claws and two glowing yellow eyes through the hair. She ends in mid-air above the dog, not touching him. The trail is a blur of her own body and hair, not smoke, fog, ash or particles. The wall top becomes empty; the uncovered wall lantern flickers once and then shines fully.
+[1.7s-3.0s] <Subject 2>'s barking breaks into a high frightened yelp. He recoils, front legs lifting, scrambles backward toward screen left, loses his footing and tumbles onto his back near the iron table and chairs, paws up. Fast, physically natural motion like a real startled dog, no sliding, floating or size change. His collar stays on.
+[1.8s-3.8s] Startled a moment later, <Subject 1> steps his left foot forward into a wide low lunge toward the dog and the creature, reaching out with his left arm, right fist drawn back by his hip. His feet stay on the paving; he does not jump, fly or slide. His face stays mostly turned away from the camera; the small part of his face visible in three-quarter rear profile is clearly the face from <Picture 2>.
+[3.8s-5.0s] Everything settles into the final pose of the provided last frame and holds.
+No extra creatures or people, no duplicate limbs, no wings, no fire, no lightning bolts, no smoke, fog or dust clouds, no text, no subtitles.
+
+overall_soundscape:
+[0.0s-1.3s] Puff's sharp continuous barking, faint night ambience. [1.3s] a sudden rush of air, the swish of long hair whipping through the air, a brief electric buzz from the flickering lantern. [1.7s] the barking cuts into a high frightened yelp, then the thump and scrape of the dog tumbling onto the paving. [2.0s] Houndson's sharp intake of breath and the scuff of his sneaker as he lunges. No dialogue, no roaring or growling from the creature.
+
+non_diegetic_music:
+None. No music, no dramatic sting.

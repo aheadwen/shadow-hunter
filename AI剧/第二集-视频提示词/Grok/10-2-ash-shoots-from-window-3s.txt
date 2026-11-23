@@ -1,0 +1,38 @@
+A 3-second photorealistic live-action night shot from the supplied image. Over-the-shoulder view from behind Ash at his open bedroom window, aiming a bow down into the courtyard.
+Locked-off camera: no camera movement, zoom, shake, cuts or crossfades.
+
+STRICT TIMELINE — ONLY THESE ACTIONS, NOTHING ELSE:
+
+0.0–1.0 s — ASH DRAWS TIGHT:
+Ash pulls the bowstring the last few centimeters back to full draw, his drawing hand settling at his cheek, the bow limbs bending a little further, his arm and shoulder tensing. He aims. The arrow stays on the string.
+
+1.0–2.0 s — ASH SHOOTS:
+At 1.0 s his drawing fingers open and release. His drawing hand slides back past his cheek in a short follow-through; his bow arm stays steady. The string snaps forward and vibrates.
+The single black-fletched arrow flies out through the open window along ONE straight line toward the dark creature behind the running boy, passing clearly to the RIGHT of the boy and never toward him. It shrinks quickly with distance and disappears into the courtyard toward the creature by about 1.6 s.
+
+2.0–3.0 s:
+Ash holds his follow-through pose, bow raised, string still vibrating slightly, hands still.
+
+THE WHOLE TIME, 0.0–3.0 s, CONTINUOUSLY:
+The blond boy runs straight toward the window and the camera, carrying the golden retriever in both arms against his chest, panicked. He never stops running and grows only slightly larger.
+The dog stays in his arms the whole time and barks frantically over his shoulder, back toward the creature.
+The dark blurred creature behind him and to his right drifts only SLIGHTLY lower, a small downward movement. It does not land, jump, attack or change shape.
+
+LIMITS:
+Only ONE arrow is shot; no new arrow appears on the string; no second shot.
+Ash's face stays hidden. His hair, white rolled-up sleeves, navy vest and quiver stay the same.
+The boy and the dog keep the same proportions and appearance; the dog never leaves his arms.
+The courtyard, overturned furniture, spilled flowerpot, steps, arched niche, lanterns, trees and buildings stay completely stable.
+No glowing trail, no magic effect, no smoke, fog or text. No slow motion.
+
+AUDIO:
+0.0–1.0 s: the creak of the bow being drawn tight; the dog's frantic barking and the boy's running footsteps in the courtyard below.
+1.0 s: the sharp twang of the bowstring and the quick hiss of the arrow.
+The dog's barking and the footsteps continue to the end.
+No dialogue, no music.
+
+---
+如果还是乱：
+- Ash 在第 1 秒之前就松手了：加一句 "Before 1.0 s the arrow is still on the string; the release happens exactly once, at 1.0 s."
+- 莉莉的黑影动得太多：把她那一句改成 "The dark creature stays almost still, sinking only a few centimeters."
+- 设不了 3 秒：按最短时长生成，剪辑时只留前 3 秒。

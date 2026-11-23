@@ -1,0 +1,26 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>. His face must match <Picture 2> exactly: tousled golden-blond hair, light blue eyes, freckles. He wears a heather-gray T-shirt, light gray sweatpants and white sneakers, exactly as in <Picture 1>.
+<Subject 2> is Puff, the golden retriever in <Picture 3> and <Picture 1>: long golden coat, navy collar with a round silver tag reading PUFF.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot looking steeply down from the top of the courtyard back wall, locked-off camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Puff, who was holding the red frisbee with his eyes turned up, slowly raises his head; the frisbee drops from his mouth onto the paving and he stands frozen, staring straight up at the camera.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same person, same position and stance; his feet do not move.
+<Subject 2>: fully_preserved - same coat, size, collar and tag.
+<Picture 1>: fully_preserved - high-angle framing, planters with white hydrangeas, lamp post at upper left, iron table and chairs at right, warm night lighting.
+Background: fully_preserved - paving, planters, lamp post, table and chairs stable; constant exposure; no shadow of any figure.
+
+detailed_description:
+Locked-off camera on top of the wall, same framing and lens throughout. No camera movement, zoom, cuts or crossfades.
+[0.0s-1.0s] Matching <Picture 1>. <Subject 2> stands with his head lowered, the red frisbee in his mouth, eyes turned up toward the camera, completely still. <Subject 1> stands beside the dog's hindquarters, head lowered, looking down at him, arms relaxed at his sides.
+[1.0s-2.6s] <Subject 2> slowly raises his head toward the camera. His jaws loosen and the red frisbee drops flat onto the paving in front of his front paws and lies still in the position of the provided last frame. He straightens his front legs into the standing pose of the provided last frame, face turned up, staring straight up into the camera.
+[2.6s-5.0s] <Subject 2> freezes, mouth closed, staring up at the camera; the fur along his neck and back begins to rise slightly. <Subject 1> keeps looking down at the dog, his brows drawing together a little in puzzlement; his head does not lift yet. Hold the provided last frame.
+<Subject 1>'s feet, legs and arms stay in place. No barking yet. No shadow creeping in, no creature, no other person, no smoke, fog or text.
+
+overall_soundscape:
+Quiet night courtyard ambience. [1.8s] the light plastic clack of the frisbee hitting the stone paving. [2.6s] Puff's very low, uneasy whine deep in his throat, then a tense silence.
+
+non_diegetic_music:
+None.

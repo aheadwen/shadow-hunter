@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1>: tousled golden-blond hair, light blue eyes, strong straight brows, freckles across nose and cheeks, heather-gray crew-neck T-shirt.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[first frame + generation] One continuous photorealistic live-action high-angle close-up with a locked-off camera, starting exactly from <Picture 1>. Houndson stares up at something on top of the wall, studies it in silence, then quietly asks "What… is that thing?".
+
+retention_analysis:
+<Subject 1>: fully_preserved - same face, freckles, blue eyes, hair and T-shirt; head and shoulders stay in the same position.
+<Picture 1>: fully_preserved - framing, angle, paving and planter background, lighting, color and exposure.
+Background: fully_preserved - stable; no shadow passes over him.
+
+detailed_description:
+Locked-off camera. Same framing, lens and angle as <Picture 1>. No camera movement, zoom, push-in, shake, cuts or crossfades.
+His head, shoulders and body stay in place throughout: no head turn, no step, no flinch. No hand or arm enters the frame. His eyes stay looking up toward the top of the wall, above and slightly beyond the camera; never into the lens, never down.
+[0.0s-1.5s] Silent observation. He does not speak; his lips stay still in the slightly parted position of <Picture 1>. His eyes make small searching movements, as if trying to make something out in the dark, then settle and lock onto one point. His brows slowly draw together a little more.
+[1.5s-2.0s] Quietly, half to himself, he says: "What…" and trails off, still staring.
+[2.0s-2.5s] Silence. A small, uneasy swallow. Eyes locked on the point above.
+[2.5s-3.5s] In a low, stunned voice, not shouting, he says: "is that thing?" Slowly, with growing unease.
+[3.5s-5.0s] He keeps staring upward, motionless, lips settling slightly apart, brows drawn together, uneasy and alert.
+The complete line is exactly "What… is that thing?", spoken once with the pause after "What…". Accurate English lip synchronization. No extra words, slang, swearing, laughter or gasps.
+No creature, other person, light flicker, smoke, fog, visible breath, text or subtitles.
+
+overall_soundscape:
+Quiet night courtyard ambience. Off-screen, Puff barks continuously and sharply from below and slightly to the left, mixed lower under the dialogue so the words stay clear. Houndson's voice: a 15-year-old boy from Manhattan's Upper East Side with a deep, low, mature voice for his age, warm, slightly husky, clean and well-spoken educated Manhattan accent, no street accent; here quiet and uncertain. His soft, tense breathing between the words.
+
+non_diegetic_music:
+None.

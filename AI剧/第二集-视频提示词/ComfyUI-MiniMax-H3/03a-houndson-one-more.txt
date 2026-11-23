@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1>: tousled golden-blond hair, light blue eyes, strong straight brows, freckles across nose and cheeks, a broad athletic neck and shoulders, plain gray crew-neck T-shirt.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[first frame + generation] One continuous photorealistic live-action low-angle close-up at night with a locked-off camera, starting exactly from <Picture 1>. Houndson is playing fetch with his dog off-screen and cheerfully calls "Puff! One more!".
+
+retention_analysis:
+<Subject 1>: fully_preserved - same face, freckles, blue eyes, hair and T-shirt; head angle and eyeline toward screen right stay the same.
+<Picture 1>: fully_preserved - framing, low angle, blurred ivy at left, pale stone wall and warm-lit window at right, dark blue sky.
+Background: fully_preserved - softly out of focus and stable; steady warm lighting.
+
+detailed_description:
+Locked-off camera, same framing, no camera movement, zoom, cuts or crossfades.
+His head keeps the same slight three-quarter angle and gentle tilt; his eyes stay on the off-screen game toward SCREEN RIGHT. He never looks into the camera or up at the house. Hands, frisbee and dog stay outside the frame. Only small, natural head and facial movement.
+[0.0s-0.4s] Matching <Picture 1>: a bright, happy smile.
+[0.4s-0.9s] With a little extra outdoor projection to get the dog's attention, he calls: "Puff!"
+[0.9s-1.2s] A brief, natural beat, still smiling.
+[1.2s-2.0s] With playful enthusiasm and an audible smile he says: "One more!"
+[2.0s-5.0s] His mouth settles into a relaxed, pleased smile; he keeps watching the dog toward screen right, with a natural blink.
+The complete line is exactly "Puff! One more!", spoken once, with accurate English lip synchronization. His lips, jaw and cheeks articulate naturally; no wide-open shouting mouth, no big nod, no sudden turn.
+No text, subtitles, smoke, fog, visible breath or particles.
+
+overall_soundscape:
+Very quiet night courtyard ambience. Houndson's voice is close and clear: a 15-year-old boy with a deep, low, warm, slightly husky voice for his age, natural chest resonance, clean educated Manhattan accent; cheerful and lively but never shrill or shouting. Only the line "Puff! One more!". No barking, laughter or music.
+
+non_diegetic_music:
+None.

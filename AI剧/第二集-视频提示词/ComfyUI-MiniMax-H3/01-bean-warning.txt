@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is Bean, the raven in <Picture 1> and <Picture 2>: a realistic raven with a strong black beak, red eyes, dense blue-black plumage with subtle violet iridescence, black feet, and a gold ring with a green gem on his left leg.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot with a locked-off camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Bean hears a rapid crawling sound upstairs, spreads his wings, beats them three times and gives two harsh warning calls, while gripping the perch.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same raven, same red eyes, same violet sheen, same gold-and-green leg ring; anatomically correct raven proportions throughout.
+<Picture 1>: fully_preserved - framing, the wooden perch, the night window, the city silhouette and the blurred figure of Ash in the left foreground stay unchanged.
+Background: fully_preserved - window frame, trees and buildings outside, warm interior light; constant exposure.
+
+detailed_description:
+Locked-off camera, same framing, lens and depth of field throughout. No camera movement, zoom, cuts or crossfades. The blurred figure in the left foreground stays still and out of focus.
+[0.0s-0.4s] Matching <Picture 1>. <Subject 1> perches still, wings folded, beak closed.
+[0.4s-0.6s] A brief alert movement: his neck extends slightly and his head lifts toward an unseen sound source above.
+[0.6s-1.3s] He quickly unfolds BOTH wings outward and upward through the shoulder, elbow and wrist joints, primary feathers fanning apart, and performs the FIRST clear wingbeat: both wings sweep down and rise again. His beak opens for the FIRST short, harsh warning call, then closes.
+[1.3s-3.3s] He performs TWO MORE distinct wingbeats in succession, each with a clearly visible downward sweep and upward recovery. His body rocks slightly with each beat but stays on the perch.
+[3.3s-4.0s] His wings settle into the raised, spread pose of the provided last frame; his head lifts and his beak opens for the SECOND harsh warning call.
+[4.0s-5.0s] Hold the last-frame pose: wings spread, beak open at the end of the call.
+Both feet grip the perch firmly the entire time; he does not take off, hop or slide along the perch. The beak is clearly closed between the two calls.
+No extra birds, duplicate wings, extra legs, feathers flying off, glowing eyes, smoke or text.
+
+overall_soundscape:
+[0.0s-0.4s] quiet bedroom room tone. [0.4s] faint rapid scratching and crawling sounds from the ceiling above. [0.6s] the first short, harsh, guttural raven warning call, with the strong whoosh of wingbeats. [1.3s-3.3s] two more heavy wingbeats. [3.4s] the second harsh warning call. Then the crawling sound above stops.
+
+non_diegetic_music:
+None.

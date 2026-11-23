@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>. His face must match <Picture 2> exactly: tousled golden-blond hair, light blue eyes, freckles. He wears a heather-gray T-shirt, light gray sweatpants and white sneakers, exactly as in <Picture 1>.
+<Subject 2> is Puff, the golden retriever in <Picture 3> and <Picture 1>: reddish-gold coat, cream muzzle, floppy ears, navy collar with a round silver tag.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot with a locked-off low-angle camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Houndson throws the red frisbee directly from the pose he is holding it in, calls "Go, Puff!", and Puff leaps forward after the disc.
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2>; same clothing.
+<Subject 2>: fully_preserved - same coat, proportions, collar and tag.
+<Picture 1>: fully_preserved - low-angle framing, pale stone house with warm-lit windows, wooden fence and closed gate, steps, ivy, wall lanterns, paving, dark blue sky.
+Background: fully_preserved - stable architecture and steady warm night lighting.
+
+detailed_description:
+One continuous, completely locked-off low-angle shot. No camera movement, zoom, reframing or cuts.
+THROW RULE: the frisbee is held in his anatomical LEFT hand, the hand on SCREEN RIGHT beside his torso at waist height. That SAME hand performs the whole throw, directly from the held position. No wind-up: no drawing the disc back toward his chest, no elbow pulled behind his body, no lifting the disc to shoulder height, no circular swing, no regripping, no switching hands. His other hand stays empty and relaxed.
+[0.0s-2.6s] Matching <Picture 1>. <Subject 1> keeps the starting stance and waist-level hold, smiling at the dog, with only a small natural weight shift and a blink. <Subject 2> stands on all four paws watching the disc eagerly, mouth open, tail wagging loosely.
+[2.6s-3.6s] In one short, fluid movement the left forearm extends DIRECTLY forward toward screen right and slightly toward the camera, with a small wrist flick; his fingers open and release the rim. His arm continues into the extended follow-through of the provided last frame, and his rear foot steps forward naturally.
+[3.6s-4.4s] Still smiling, watching the disc fly, he cheers once: "Go, Puff!" "Go" slightly lengthened and encouraging, "Puff" called clearly and warmly. Accurate English lip sync.
+[3.4s-5.0s] <Subject 2> reacts to the release, pushes off with his hind legs and makes one quick leap forward toward the camera-right foreground, ending at the airborne instant of the provided last frame. Real-time speed, no slow motion.
+FRISBEE FLIGHT: exactly ONE red frisbee. After release, its center follows ONE straight line from his hand to its position at the upper right edge of the provided last frame, spinning around its own center and growing slightly larger as it approaches the camera. No curve, hook, loop, boomerang motion or direction change. No duplicate disc left in his hand. No teleporting or morphing.
+Puff follows the disc but does not catch it in this shot.
+No smoke, fog, visible breath, particles, text or subtitles.
+
+overall_soundscape:
+Quiet night courtyard ambience. Subtle clothing rustle, a soft whoosh as the disc is released. [3.6s] Houndson's cheerful "Go, Puff!" in a deep, low, warm, slightly husky 15-year-old boy's voice with a clean, educated Manhattan accent, projected naturally outdoors. Puff's eager panting, the scrabble of his paws pushing off on stone, and a faint jingle of his tag. No barking, no music.
+
+non_diegetic_music:
+None.

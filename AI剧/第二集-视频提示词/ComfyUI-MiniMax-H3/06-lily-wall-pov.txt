@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the creature crouching on top of the brick wall in <Picture 1>: a thin, small humanoid shape completely covered in long, wet-looking black hair that hangs down over the wall edge in front of the lit wall lantern; thin black-haired fingers grip the wall top; two faint yellow eyes behind the hair.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[first frame + generation] Photorealistic live-action night shot from Houndson's point of view, standing in the courtyard and looking up at the back wall. Starting exactly from <Picture 1>, the camera slowly pushes in toward the creature crouching motionless on the wall top.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same shape, same crouch, same position on the wall top, same hair hanging in front of the lantern.
+<Picture 1>: fully_preserved - arched niche with urn, white trellises, lamp posts, ivy, steps, iron table and chairs, grill, buildings, moon and night sky.
+Background: fully_preserved - everything stays stable.
+
+detailed_description:
+[0.0s-5.0s] One slow, steady, slightly handheld push-in toward <Subject 1>, as if Houndson takes an uneasy half step forward while staring. By the end, the creature and the top of the arched niche fill the upper middle of the frame.
+<Subject 1> stays crouched and almost completely still: only her long hair stirs slightly in the night air and her shoulders rise and fall with slow breathing. At about 3.0s two yellow eyes catch the lantern light through the hair and glint. She does not jump, turn, stand up or move her hands.
+At about 2.0s the wall lantern behind her hair flickers once.
+No other creature or person, no wings, no fire, no smoke, fog or text.
+
+overall_soundscape:
+Night courtyard ambience. Puff's sharp, continuous barking from just off-screen below, slightly muffled. [2.0s] a brief electric buzz from the flickering lantern. A very faint, wet rustle of hair. No dialogue.
+
+non_diegetic_music:
+None.

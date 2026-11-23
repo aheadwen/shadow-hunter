@@ -1,0 +1,28 @@
+subject_definitions:
+<Subject 1> is Puff, the golden retriever in <Picture 2>: reddish-gold coat, cream muzzle, floppy ears, navy collar with a round silver tag, adult proportions.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous, fast photorealistic live-action night shot from a locked-off, straight-down overhead camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. A thrown red frisbee flies in from the lower-right edge and lands near the steps; Puff, completely outside the frame at first, runs in from the lower-right edge after it and stops with his nose at its rim.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same coat, size, collar and tag; consistent overhead proportions.
+<Picture 1>: fully_preserved - straight-down framing, stone paving pattern, fallen leaves, the two steps with step lights, brick planters with white hydrangeas in the top corners.
+Background: fully_preserved - every paving stone, leaf, step and planter stays sharp and stationary; steady warm night lighting.
+
+detailed_description:
+Completely locked-off, straight-down overhead camera. Identical framing throughout. No camera movement, zoom, rotation or cuts.
+[0.0s-0.3s] Matching <Picture 1>. The single red frisbee is already entering near the lower-right edge, spinning, with motion blur. NO part of the dog is visible yet.
+[0.3s-1.3s] The frisbee keeps flying low along a straight diagonal line from the lower right toward the upper center. Off-screen at the lower right, Puff is heard running closer. At about 1.0s his nose and head cross the LOWER-RIGHT frame edge, followed by his neck and shoulders, while the rest of his body is still outside the frame. He enters only through the actual image boundary by running forward: no fading in, no appearing inside the courtyard.
+[1.3s-2.6s] Puff runs diagonally toward the disc in several quick, natural strides: alternating paw contacts, hind-leg propulsion, ears bouncing, fur and tail streaming with momentum; his whole body progressively enters the frame. Meanwhile the frisbee lands flat on the paving just below the bottom step, at the position in the provided last frame, with only a tiny settling movement, and lies still before he reaches it.
+[2.6s-3.2s] He brakes over his last two steps, front paws planting, hindquarters following through, and lowers his muzzle to the rim, matching the provided last frame.
+[3.2s-5.0s] He stays at the disc in the pose of the provided last frame, sniffing it, sides heaving with short happy pants. He does not pick up, push or move the frisbee.
+Run continuously through the middle of the chase; no pause, no slow walking, no slow motion.
+Exactly ONE worn red frisbee with a chewed rim; straight path; no curve, hook, bounce, rolling on its edge or hovering. No sliding paws, floating body or body stretching.
+No shadow of a creature, no other characters or objects, no smoke, fog, visible breath, particles or text.
+
+overall_soundscape:
+[0.0s-1.0s] Approaching dog footsteps and light, happy panting from off-screen at the lower right, quickly getting louder. [1.0s-2.6s] Close, quick paw impacts on dry stone synchronized with his strides, light claw clicks, a faint collar-tag jingle. [2.2s] a small plastic tap as the frisbee lands. [2.6s] a soft paw scuff as he brakes. Then the footsteps stop, leaving short, light, happy panting and a sniff. Quiet night courtyard ambience underneath. No barking, dialogue or music.
+
+non_diegetic_music:
+None.

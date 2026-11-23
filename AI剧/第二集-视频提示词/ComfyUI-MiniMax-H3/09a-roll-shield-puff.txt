@@ -1,0 +1,30 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>: tall, broad-shouldered teenage boy with tousled golden-blond hair, light blue eyes and freckles, wearing a plain heather-gray T-shirt, light gray sweatpants and white sneakers. His face matches <Picture 2>.
+<Subject 2> is Puff, the golden retriever in <Picture 1> and <Picture 3>: normal adult size, long reddish-gold coat, navy collar with a round silver tag reading PUFF.
+<Subject 3> is the creature in the left foreground of <Picture 1>: seen from behind, a dark mass of long black hair; one long, thin, black-haired arm with sharp black claws.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot from a locked-off high-angle camera behind the creature's shoulder, starting exactly from <Picture 1> and ending exactly on the provided last frame. Houndson, lying on his side, rolls over Puff and curls his body around the dog, turning his back to the creature, while the creature's clawed arm swings in from the upper left.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same person, hair, build and clothing; facial identity from <Picture 2> while his face is visible.
+<Subject 2>: fully_preserved - same coat, size, collar and tag.
+<Subject 3>: fully_preserved - the hair in the left foreground stays in place, blurred; only her arm moves.
+<Picture 1>: fully_preserved - high-angle framing, stone paving, warm night light, shadows.
+Background: fully_preserved - stable paving and lighting, constant exposure.
+
+detailed_description:
+Locked-off high-angle camera. Same framing, lens and perspective throughout. No camera movement, zoom, cuts or crossfades. The creature's hair in the left foreground stays where it is.
+[0.0s-2.4s] Matching <Picture 1>. <Subject 2> crouches low on the right, barking in terror up toward the upper left. <Subject 1> lies on his side reaching toward the dog, face in profile, eyes wide, scrambling forward slightly on the paving.
+[2.4s-4.0s] In one fast, continuous movement <Subject 1> rolls toward the dog: his upper body swings over <Subject 2> and curls around him, his lower arm wrapping around the dog and pulling him in under his chest. His back, shoulders and the back of his head turn toward the camera; his head tucks down over the dog so his face disappears from view. His upper arm bends back over his head to protect the back of his neck, the outer side of his upper arm and shoulder facing up. His knees draw up behind him. He ends exactly in the pose of the provided last frame.
+At the same time <Subject 2> stops barking, closes his mouth, flattens his ears and cowers under him, eyes looking up, whimpering.
+[3.4s-5.0s] <Subject 3>'s long, thin, black-haired arm sweeps in from the upper-left foreground along a curved arc toward screen right, extremely fast, with strong motion blur along the curve. It ends in the provided last frame: claws passing just above his raised arm and the back of his head, not touching him yet.
+His body stays on the paving: no jumping, sliding or floating. Her arm keeps a natural length with one elbow and one clawed hand; it does not stretch like a tentacle.
+No blood yet. No other person, no extra creature, no smoke, fog, particles or text.
+
+overall_soundscape:
+[0.0s-2.4s] Puff's frantic, high-pitched barking; Houndson's ragged, panicked breathing and the scrape of his clothes and sneakers on stone. [2.4s] a heavy thud and scuff as he rolls over the dog; Puff's barking breaks into a frightened whimper. [3.4s] a sharp whoosh of air and the swish of long hair as the clawed arm sweeps in. No dialogue, no creature roar, no music.
+
+non_diegetic_music:
+None.

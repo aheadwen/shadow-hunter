@@ -1,0 +1,29 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>. His face must match <Picture 2> exactly: tousled golden-blond hair, light blue eyes, freckles across nose and cheeks, broad shoulders, 189 cm tall. He wears a plain heather-gray T-shirt, light gray sweatpants with cuffed ankles and white sneakers.
+<Subject 2> is Puff, the golden retriever in <Picture 3> and <Picture 1>: long golden-red coat, navy collar with a round silver tag, holding a worn red frisbee with chewed edges in his mouth.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot with a locked-off low ground-level camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Houndson runs up behind Puff saying "Good boy." and stops beyond the dog's back so that only his legs remain in frame; Puff, still gripping the frisbee, suddenly rolls his eyes up toward empty space at screen upper right.
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2> while his face is visible; same clothing.
+<Subject 2>: fully_preserved - same coat, size, collar and tag; same head-down pose with the frisbee in his mouth.
+<Picture 1>: fully_preserved - framing, low viewpoint, courtyard and warm night lighting.
+Background: fully_preserved - pale stone house with lit windows, wall lamps, lamp post, ivy, wooden fence, iron table and chairs, brick planters, paving and dark blue sky stay stable.
+
+detailed_description:
+Locked-off, low ground-level camera. Same framing, lens and perspective. No camera movement, zoom, cuts or crossfades.
+PUFF'S MOUTH, ENTIRE VIDEO: <Subject 2> holds the rim of the red frisbee firmly between his closed jaws in one steady grip from the first frame to the last. No chewing, gnawing, mouthing, licking, visible tongue, drooling, regripping or letting go. The frisbee does not slide, rotate, lift or drop.
+PUFF'S EYES, ENTIRE VIDEO: his eyes make exactly ONE movement, a single upward roll at about 2.4s. Before that they stay exactly as in <Picture 1>, soft and looking down at the frisbee; he does NOT follow Houndson with his eyes. After the roll they stay locked on the same point. No blinking, darting or side glances.
+[0.0s-1.4s] <Subject 1> keeps running from the middle ground toward the far side of <Subject 2>, toward the camera and slightly toward screen left, natural stride, swinging arms, smiling, looking down at the dog. While his face is clearly visible, at about 0.3s-1.0s, he says exactly: "Good boy." Once, warm and cheerful, slightly breathy from running, accurate English lip sync, no extra words.
+[1.4s-2.4s] Because the camera is low and he approaches it, his body rises out of the TOP EDGE continuously: head, then shoulders and chest, then waist and hips leave the frame. His lower legs move behind the dog's body. He stays entirely on the far side of the dog and never passes through or in front of him. He slows over his last two steps and stops, feet planted, knees slightly bent, just beyond the dog's back, matching the leg position of the provided last frame. His upper body never re-enters the frame.
+[2.4s-2.8s] <Subject 2> suddenly goes still. Without lifting his head and with the frisbee still gripped, his eyes roll upward in one movement: irises rise to the top of the eye openings, a thin crescent of white shows beneath, the fur above the eyes lifts slightly. His gaze fixes on screen upper right, the empty space above the iron table and the far fence.
+[2.8s-5.0s] Stillness, matching the provided last frame. Puff stares upward, frisbee in his mouth, only subtle breathing. Houndson's legs settle slightly and stay still. The space Puff stares at stays EMPTY.
+No shadow falling over the scene, no creature, no figure on the fence, no other person, no raised hackles or snarl yet, no smoke, fog, visible breath or text.
+
+overall_soundscape:
+Quiet nighttime courtyard ambience. Houndson's quick sneaker footsteps on stone paving growing louder, ending with two short scuffing steps as he stops; his light breathing from running. [0.3s] his line "Good boy." in a deep, low, warm, slightly husky 15-year-old boy's voice with a clean, educated Manhattan accent. Puff's soft, quick breathing through his nose and a faint clink of his tag. [2.4s] Puff's breathing stops abruptly; then near silence, only faint night ambience. No chewing sounds, no growling.
+
+non_diegetic_music:
+None.

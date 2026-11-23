@@ -1,0 +1,25 @@
+subject_definitions:
+<Subject 1> is Ash, the teenage boy in <Picture 1> and <Picture 2>. His face must match <Picture 2> exactly: tousled chestnut-brown hair, round gold wire-framed glasses, light freckles, and two different eye colors. His RIGHT eye (on SCREEN LEFT) is teal-green; his LEFT eye (on SCREEN RIGHT) is amber-brown. He wears a cream shirt, a navy knit sweater vest and a green striped tie, exactly as in <Picture 1>.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action close-up at night with a locked-off camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Ash has just heard the raven's warning. He turns his face to the front, realizes something is seriously wrong and says "Oh, crap!".
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2>; the teal-green eye stays on SCREEN LEFT and the amber-brown eye on SCREEN RIGHT in every frame, never swapping or changing color. Glasses, hair and clothing unchanged.
+<Picture 1>: fully_preserved - framing, bedroom wall and night window background, lighting.
+Background: fully_preserved - warm wall on the left, dark blue window with city silhouette on the right, softly out of focus and stable.
+
+detailed_description:
+Locked-off camera, same framing throughout. No camera movement, zoom, cuts or crossfades.
+[0.0s-0.6s] Matching <Picture 1>. <Subject 1> holds still in the slightly turned pose, eyes fixed on something toward screen upper left.
+[0.6s-1.0s] He promptly makes the small head turn into the frontal orientation of the provided last frame. Shoulders and torso stay in place. His eyes stay on the SAME unseen source toward screen upper left, slightly above eye level; he never looks into the camera. His eyes widen and his inner brows lift and draw together.
+[1.2s-1.9s] Low, quick and tense, he says exactly: "Oh, crap!" The "Oh" is a short breath of sudden realization; "crap" follows right after, clipped and urgent. Accurate English lip synchronization. Spoken once, no extra words.
+[1.9s-5.0s] He freezes and listens, matching the provided last frame: lips slightly parted, eyes wide and locked on the same point at screen upper left, brows tense. Only subtle breathing. No blinking spree, no eye darting.
+No other person, no hands entering the frame, no glow, no text, no subtitles.
+
+overall_soundscape:
+Quiet bedroom night ambience. Faint rapid crawling sounds in the ceiling above. [1.2s] Ash's line "Oh, crap!" in a clear, light teenage boy's voice with a natural New York American accent, tense and hushed. Then his short, held breath and silence except the faint crawling above.
+
+non_diegetic_music:
+None.

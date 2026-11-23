@@ -1,0 +1,24 @@
+subject_definitions:
+<Subject 1> is Ash, the teenage boy in <Picture 1> and <Picture 2>: tousled chestnut-brown hair, round gold wire-framed glasses, light freckles. His RIGHT eye (on SCREEN LEFT) is teal-green; his LEFT eye (on SCREEN RIGHT) is amber-brown.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action shot. Starting exactly from <Picture 1>, the camera pushes straight in on Ash's AMBER-BROWN eye (the eye on SCREEN RIGHT) until it ends exactly on the provided last frame, an extreme close-up of that eye behind the gold glasses rim.
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2>; the eye the camera approaches is the amber-brown eye on SCREEN RIGHT and it stays amber-brown with realistic iris fibers; the teal-green eye stays on SCREEN LEFT until it leaves the frame.
+<Picture 1>: fully_preserved - starting framing, lighting and expression.
+Background: fully_preserved - the bedroom background blurs and leaves the frame naturally as the camera moves closer.
+
+detailed_description:
+[0.0s-0.8s] Matching <Picture 1>. <Subject 1> holds completely still, alarmed, eyes wide, looking toward screen upper left, lips slightly parted. Locked-off camera.
+[0.8s-4.0s] One continuous, smooth camera push-in, starting gently and accelerating, aimed at the center of the amber-brown eye on SCREEN RIGHT. His face grows in the frame; the forehead, the other eye, the nose and the mouth slide out of the frame edges; the gold glasses rim stays on his face and passes naturally to the frame edge. The camera never passes through the lens.
+[4.0s-5.0s] The camera settles exactly on the extreme close-up of the provided last frame and holds still.
+The eye stays open and steady throughout: no blinking, no eye movement, no pupil dilation, no color change, no glow. The pupil grows in the image only because the camera moves closer. His head does not move.
+No reflections showing another scene, no particles, no light burst, no text.
+
+overall_soundscape:
+Quiet bedroom room tone; the faint crawling sound above fades away; Ash's held, shallow breathing. A low, subtle air rush rising with the push-in.
+
+non_diegetic_music:
+None.

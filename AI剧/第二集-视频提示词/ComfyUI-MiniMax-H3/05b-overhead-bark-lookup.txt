@@ -1,0 +1,31 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>. His face must match <Picture 2> exactly: tousled golden-blond hair, light blue eyes, strong straight brows, freckles across nose and cheeks. He wears a heather-gray T-shirt, light gray sweatpants and white sneakers, exactly as in <Picture 1>.
+<Subject 2> is Puff, the golden retriever in <Picture 3> and <Picture 1>: long golden coat, navy collar with a round silver tag reading PUFF.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot looking steeply down from the top of the courtyard back wall, locked-off camera, starting exactly from <Picture 1> and ending exactly on the provided last frame. Puff bursts into furious barking at the camera; Houndson slowly raises his head and looks up, hesitant and puzzled; a soft dark shadow slides in from the bottom edge.
+
+retention_analysis:
+<Subject 1>: fully_preserved - facial identity from <Picture 2> once he looks up; same stance; feet stay planted.
+<Subject 2>: fully_preserved - same coat, size, collar and tag; stays in the same spot.
+<Picture 1>: fully_preserved - high-angle framing, planters, lamp post, table and chairs, red frisbee on the paving.
+Background: fully_preserved - everything stays stable; the frisbee does not move.
+
+detailed_description:
+Locked-off camera on top of the wall. Same framing and lens throughout. No camera movement, zoom, cuts or crossfades.
+[0.0s-0.6s] Matching <Picture 1>. <Subject 2> stands frozen, staring straight up at the camera, a very low whine in his throat; <Subject 1> looks down at the dog.
+[0.6s-1.0s] The fur along <Subject 2>'s neck and back bristles up and his tail rises stiffly above his back, not wagging.
+[1.0s-7.0s] <Subject 2> barks furiously and continuously up at the camera: mouth opening wide, teeth showing, head jerking slightly with each bark, front legs braced. His paws stay in place.
+[1.2s-2.4s] <Subject 1>, startled by the barking, follows the dog's gaze and slowly raises his head, taking about a second, until he looks straight up at the camera. His arms hang still at his sides the entire video: no arm swinging, no raised hands, no gestures. He does not step back, lean or tense up.
+[2.4s-6.0s] He studies the top of the wall in silence, uncertain what he is seeing: eyes searching and then settling on one point, brows slowly drawing together. His lips stay naturally closed until 5.4s.
+[5.4s-6.0s] Only now his lips part slightly, no wider than in the provided last frame, eyes still focused and puzzled, not slack-jawed.
+[6.0s-7.0s] Hold the provided last frame.
+SHADOW: the soft dark shadow is EXACTLY the shape shown in the provided last frame. From 1.0s to 5.5s that same shape slides in rigidly from just below the bottom edge of the frame, moving upward at a steady speed and gradually darkening, until it reaches its position in the provided last frame; then it stays still. Only its position and darkness change; its outline never changes. It never grows past that position, never shows a creature silhouette, never climbs onto the boy or the dog, and no second shadow appears.
+No dialogue. No creature visible, no other person, no smoke, fog or text.
+
+overall_soundscape:
+Quiet night courtyard ambience. [0.0s-0.6s] Puff's very low whine. [1.0s] Puff breaks into sharp, furious, continuous barking that lasts to the end. Houndson's single short, uneasy breath when he looks up. No dialogue.
+
+non_diegetic_music:
+None.

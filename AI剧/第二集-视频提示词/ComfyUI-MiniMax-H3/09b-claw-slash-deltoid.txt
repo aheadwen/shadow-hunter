@@ -1,0 +1,34 @@
+subject_definitions:
+<Subject 1> is Houndson, the young man in <Picture 1> and <Picture 2>: tall, broad-shouldered teenage boy with tousled golden-blond hair, wearing a plain heather-gray T-shirt, light gray sweatpants and white sneakers. He lies curled over the dog with his back to the camera; his face stays hidden.
+<Subject 2> is Puff, the golden retriever in <Picture 1> and <Picture 3>: long reddish-gold coat, navy collar with a round silver tag reading PUFF, tucked under the boy's chest.
+<Subject 3> is the creature in the left foreground of <Picture 1>: seen from behind, a dark mass of long black hair; one long, thin, black-haired arm with sharp black claws.
+<Picture 1> is the first frame of the shot.
+
+summary:
+[keyframe completion + reference generation] One continuous photorealistic live-action night shot from a locked-off high-angle camera behind the creature's shoulder, starting exactly from <Picture 1> and ending exactly on the provided last frame. The creature's claws rake across the deltoid of Houndson's raised arm in one fast swipe; blood flies off and three bloody claw marks open on his shoulder while he flinches and keeps shielding Puff.
+
+retention_analysis:
+<Subject 1>: fully_preserved - same position curled over the dog, same clothing; face hidden throughout.
+<Subject 2>: fully_preserved - same coat, size, collar and tag; stays under him.
+<Subject 3>: fully_preserved - the hair in the left foreground stays in place; only her arm moves.
+<Picture 1>: fully_preserved - high-angle framing, stone paving, warm night light.
+Background: fully_preserved - stable paving and lighting, constant exposure.
+
+detailed_description:
+Locked-off high-angle camera. Same framing, lens and perspective throughout. No camera movement, zoom, cuts or crossfades.
+[0.0s-0.4s] Matching <Picture 1>. The creature's clawed hand is just above <Subject 1>'s raised arm and the back of his head, in the middle of its swing.
+[0.4s-0.9s] THE SLASH: in one extremely fast, continuous swipe the claws rake across the DELTOID, the rounded muscle on the outer top of the shoulder and upper arm of his raised arm, just below the sleeve of his T-shirt. The arm continues along the same curved arc down toward the lower right, passing over his body and ending near his feet at the lower right, exactly as in the provided last frame, with strong motion blur along the arc.
+At the instant the claws pass, a short spray of small blood droplets flies off his deltoid, following the direction of the swipe toward the lower right, and a few drops spatter onto the paving at the lower right.
+Three fresh parallel diagonal claw cuts open across his deltoid, red, with blood welling along them, matching the position in the provided last frame.
+[0.9s-2.0s] <Subject 1> flinches hard: his whole back tenses, shoulders hunch up, the wounded arm presses tighter over his head, his fingers clench in pain. He does NOT move away from the dog and does not lift his head; his face stays hidden.
+<Subject 2> presses deeper under him, ears flat, mouth closed, eyes looking up, trembling.
+[2.0s-5.0s] Hold the provided last frame: he stays curled over the dog, breathing hard, back rising and falling, a thin trickle of blood running from the cuts down his arm. The creature's arm stays at the lower right.
+Realistic injury but not graphic: no deep gashes, no exposed flesh, no gushing blood. Blood stays only on his deltoid, a thin trickle on his arm and a few drops on the paving.
+Her arm keeps a natural length with one elbow and one clawed hand; it does not stretch like a tentacle.
+No other person, no extra creature, no smoke, fog, particles or text.
+
+overall_soundscape:
+[0.0s-0.4s] Puff's frightened whimper, Houndson's ragged breathing. [0.4s] a sharp whoosh and a short, wet tearing slash as the claws rake his shoulder. [0.5s] Houndson's sharp, strangled cry of pain through clenched teeth, then hissing, heavy breathing. Small soft patters of blood drops on stone. Puff's high, trembling whine. No dialogue, no creature roar, no music.
+
+non_diegetic_music:
+None.
